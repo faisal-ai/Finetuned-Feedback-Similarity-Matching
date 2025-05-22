@@ -1,0 +1,16 @@
+# Core libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Sentence Transformers for embedding models
+sentence-transformers>=2.2.2
+
+# PyTorch (required by SentenceTransformers)
+torch>=1.10.0
+
+# Optional: FAISS for fast similarity search
+faiss-cpu>=1.7.4
+
+# Jupyter notebook (if working in Jupyter)
+notebook
+
