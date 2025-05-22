@@ -18,6 +18,7 @@ This project aims to match free-text user feedback with product backlog items us
 The training data consists of feedback–backlog pairs with similarity labels:
 
 ```csv
+DUMMY DATA
 feedback_text,backlog_text,label
 "App crashes after update","Fix crash on app startup after update",1
 "Dark mode broken","Correct color contrast issues in dark mode",1
