@@ -8,7 +8,7 @@ This project aims to match free-text user feedback with product backlog items us
 
 - Fine-tuning `Sentence-BERT` using **manually labeled feedback–backlog pairs**.
 - Embedding-based retrieval using **FAISS** for scalable similarity search.
-- (Optional) Re-ranking with **CrossEncoder** models for higher precision.
+- Re-ranking with **CrossEncoder** models for higher precision.
 - Ready for integration with product feedback systems or issue triage pipelines.
 
 ---
